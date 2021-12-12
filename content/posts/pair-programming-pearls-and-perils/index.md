@@ -38,19 +38,19 @@ Finally, [as Linus likes to say][wikipedia-linus-law], "given enough eyeballs, a
 
 The blessing is also the primary curse, because **in a pair, you can't hide**. Sometimes you need your time alone. Some personal space, perhaps to idly do some busywork, relieve your brain, or to process a particular problem in solitude and silence. That applies especially if you're an introvert and continuous communication drains your energy.
 
-Your partner may have a **different pace of working**. Perhaps they'll take more, or fewer, breaks, setting a rhythm of work that will not be to your comfort. May like to crunch quickly through sections of code that you prefer to contemplate longer. There's a related issue of **differences in temper**, where I personally like to think through solutions and understand available options before I touch the keyboard, while I worked with people who are more "trigger happy" and prefer to try things out and see where it brings them.
+Your partner may have a **different pace of working**. Perhaps they'll take more, or fewer, breaks, setting a rhythm of work that will not be to your comfort. They may like to crunch quickly through sections of code that you prefer to contemplate longer. There's a related issue of **differences in temper**, where I personally like to think through solutions and understand available options before I touch the keyboard, I worked with people who are more "trigger happy" and prefer to try things out and see where it brings them.
 
 Both of you **need to synchronize your schedules**. If you're starting work at 8:30 and your partner at 10:00, then what do you do until they arrive? What will *they* do when you leave early?
 
-Finally, there's the same problem as when walking with someone who knows the way while you do not. Many people will not be able to learn to navigate on their own when following someone's lead. If you're new to the system and pairing with someone who's already familiar with it, there's a good change you'll **take more time to find your way around** than if you were walking working on your own.
+Finally, there's the same problem as when walking with someone who knows their way while you don't. Many people will be unable to learn to navigate on their own from following someone's lead. If you're new to the system and pairing with someone who's already familiar with it, there's a good chance you'll **need more time to find your way around** than if you were working on your own.
 
 ---
 
-Sometimes and some of the time, would be my answer to whether programmers should work in pairs. Certainly not mandatory, neither by policy nor peer pressure. And make it conscious: see which parts work for you and which ones annoy you.
+"Sometimes" and "some of the time", would be my answer to whether programmers should work in pairs. Certainly not mandatory, neither by policy nor peer pressure. And make it conscious: see which parts work for you, and which ones annoy you.
 
-Notice with whom you're doing your best work---it'll *not* be everybody. One can always make the argument that working with someone you consider "difficult" puts you out of your comfort zone and teaches you new things, but I find you can learn just as much, without the added tension, by working with people you're more comfortable with.
+Notice with whom you're doing your best work---it *won't* be everybody. One can always make the argument that working with someone you consider "difficult" puts you out of your comfort zone and teaches you new things, but I find you can learn just as much, without the added tension, by working with people you're in tune with.
 
-By all means, try it out if you haven't yet. [Don't ask your boss for permission][mb-dont-need-permission], just do it. You'll be happy you did, because pair programming *does* produce better code in the end, makes you a better cratfsperson, and you'll know it when you experience it.
+By all means, try it out if you haven't yet. [Don't ask your boss for permission][mb-dont-need-permission], just do it. You'll be happy you did, because pair programming *does* produce better code in the end, makes you a better craftsperson, and it takes doing to believe it.
 
 
 [amazon-powers-of-two]: https://www.amazon.com/Powers-Two-Relationships-Drive-Creativity-ebook/dp/B00E9FYT0O/
