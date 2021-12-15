@@ -6,6 +6,7 @@
 /public/
 /themes/
 /resources/
+.hugo_build.lock
 
 ### Visual Studio Code ###
 .settings/
