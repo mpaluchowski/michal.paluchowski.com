@@ -166,7 +166,7 @@ module "brand_one" {
 
 module "brand_two" {
   source     = "./brand-two"
-  
+
   aws_region = "${var.aws_region}"
   vpc_id     = "${module.networking.vpc_id}"
 }
@@ -309,4 +309,4 @@ Once Terraform 0.12 is out, we're sure to upgrade our code and very likely to po
 
 &nbsp;
 
-Thanks to Łukasz Kyć and Zbigniew Artemiuk for their reviews and feedback.
+Thanks to Łukasz Kyć and Zbigniew Artemiuk for their reviews and feedback. Reposted with permission from [Pragmatists](https://pragmatists.com/).
