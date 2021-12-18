@@ -30,7 +30,7 @@ So, what did I see?
 
 [Rust][rust-lang] and [WebAssembly][webassembly] were the only real, new things for me. Emerging languages and platforms, the first one may help us make proper use of concurrency and multi-core processors:
 
-{{< twitter 931147623033180160 >}}
+{{<tweet user="mpaluchowski" id="931147623033180160">}}
 
 and the [latest Firefox release already benefits from it][firefox-rust]. The second might help us build advanced applications for the web.
 

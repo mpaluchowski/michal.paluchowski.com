@@ -51,11 +51,11 @@ Such experiences provide answers to the often unsaid questions every promising c
 
 Yours may a company that does all that for employees, but you have to make sure it __shows just as vividly in your interviews__, especially those where someone gets rejected.
 
-{{< twitter 388227630723768320 >}}
+{{<tweet user="michuk" id="388227630723768320">}}
 
 People remember. Negative experiences remain in memory much sharper than positive ones, and every rejection _by nature_ is negative already. Don't make it worse. You want people to see your company as a great place that just may not have been fitting at the time:
 
-{{< twitter 475187392178302976 >}}
+{{<tweet user="mentalspl" id="475187392178302976">}}
 
 [defunktrejected]: https://twitter.com/defunkt/status/469607846527520768
 [fogcreek]: http://www.fogcreek.com/

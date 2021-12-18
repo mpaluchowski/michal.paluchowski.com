@@ -76,9 +76,9 @@ What I miss most about the device is a __powerful web interface__. The iOS app i
 
 The last twelve months were a boon to wearables, with lots of press coverage, usage explosion and startups in the field popping up everywhere. Now the tide seems to be turning:
 
-{{< twitter 457324602025209856 >}}
+{{<tweet user="girlie_mac" id="457324602025209856">}}
 
-{{< twitter 457325225189728256 >}}
+{{<tweet user="girlie_mac" id="457325225189728256">}}
 
 I feel the same way. Over time UP lost the appeal of a cool gadget, and fulfilled its purpose by delivering the insights I was hoping for. There's certainly more I could learn with a future update that would [tackle some of today's limitations][recodehardwardehard]. For now I'm contemplating abandoning it like [more and more users do][guardianabandon].
 

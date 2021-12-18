@@ -61,7 +61,7 @@ The solution to fight the western world's epidemic of obesity is not to ask peop
 
 At work, __instead of asking people to "try harder", study them__. Find out what turns them on or off, and change the work environment to account for it. Are they not empathetic enough? Perhaps that's because [we're not built for empathy in large groups][dunbars-number]. Try making the organization smaller.
 
-{{< twitter 699710013795864577 >}}
+{{<tweet user="jasonfried" id="699710013795864577">}}
 
 I look back at [some thinking I did years ago on teams][mp-team-never-was] and realize now I got it only half-right. Yes, teams need to share goals, otherwise there's no point in calling them "teams". But "sharing work" is not about collectively executing tasks---that's counterproductive. It's about agreeing on outcomes where many individual streams of responsibility come together and yes, we _can_ and _should_ confront anyone who doesn't deliver their portion.
 

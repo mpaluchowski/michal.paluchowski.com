@@ -17,7 +17,7 @@ tags:
 
 Some people were clearly dissatisfied with the outcome:
 
-{{< twitter 69870682862923776 >}}
+{{<tweet user="dusker" id="69870682862923776">}}
 
 Perhaps rightly so, perhaps not, but the truth is that an event of this type _isn't_ about building a business. You _can't_ build anything of quality and value in a 48-hour, caffeine-laden, sleep deprived, headlong running weekend. You are constantly distracted, overworked, haunted by the ever closer deadline, so as a result you cut corners - lots of them, just to be able to show something, anything in the end.
 

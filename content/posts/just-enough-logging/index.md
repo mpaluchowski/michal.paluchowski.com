@@ -16,7 +16,7 @@ Debugging is a lot like police forensics. You're chasing the villain (bug) by an
 
 I got upset lately, looking for the needle in a stack of log *spam*:
 
-{{< twitter 445855130433634304 >}}
+{{<tweet user="mpaluchowski" id="445855130433634304">}}
 
 where *everything* was logged and only mildly structured, making tracking application flow a nightmare. Clearly just dumping data into a text file doesn't make debugging easier.
 

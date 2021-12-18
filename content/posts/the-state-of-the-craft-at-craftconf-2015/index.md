@@ -32,7 +32,7 @@ At [SoCraTest 2014][mpsocrates], less than a year ago, a lot of people were stil
 
 But most importantly:
 
-{{< twitter 504997343440408576 >}}
+{{<tweet user="martinfowler" id="504997343440408576">}}
 
 To benefit from microservices without getting killed, you need to:
 
@@ -55,7 +55,7 @@ The consequence of adopting microservices is that [APIs become the norm][mpapith
 
 [@ade_oshineye][twade_oshineye] (of [Apprenticeship Patterns][apprenticeshippatterns] fame) was spot-on summarizing the process of deciding whether to create an API by showing an analogy to puppies---everybody wants one, but not everyone is ready.
 
-{{< twitter 591591859388055552 >}}
+{{<tweet user="rhwy" id="591591859388055552">}}
 
 ## Moving towards Domain-Driven Design
 
@@ -81,7 +81,7 @@ Well worth watching.
 
 Two themes notably _absent_ from the vast majority of CraftConf talks were TDD and [Agile][mpagile]. They implicitly became _accepted as defaults_---the baseline, cost of entry and survival in the game of software development.
 
-{{< twitter 591643649399717888 >}}
+{{<tweet user="sebcachia" id="591643649399717888">}}
 
 - Microservices will only reach their full potential when their owning teams can work and [make decisions][mptellmewhattodo] __independently from central authority__, including frequent deployments to production.
 - Frequent, decentralized deployments require comprehensive, __automated test coverage__.
@@ -92,7 +92,7 @@ Two themes notably _absent_ from the vast majority of CraftConf talks were TDD a
 
 Oh, and "doocracy" is a word now:
 
-{{< twitter 591194137178808320 >}}
+{{<tweet user="srdjanpoznic" id="591194137178808320">}}
 
 ## A vibrant community
 

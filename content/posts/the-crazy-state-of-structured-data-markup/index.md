@@ -60,13 +60,13 @@ These meant adding some more markup to my code:
 
 Now my content was nicely highlighted on Twitter (note: doesn't always show up):
 
-{{< twitter 447115370965774336 >}}
+{{<tweet user="mpaluchowski" id="447115370965774336">}}
 
 As a consequence, I have **the same data three-four times in the page**:
 
 1. reader-visible HTML, with the overhead of Schema.org and Microformats markup,
-1. META markup for Facebook,
-1. META markup for Twitter.
+2. META markup for Facebook,
+3. META markup for Twitter.
 
 It's like adding extra CSS for some older versions of Internet Explorer with `<!--[if lt IE 9]>`. Overhead and waste.
 

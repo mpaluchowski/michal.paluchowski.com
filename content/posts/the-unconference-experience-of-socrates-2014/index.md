@@ -37,7 +37,7 @@ and perhaps most importantly:
 
 SoCraTes attendees spent days strolling between sessions, then evenings and nights playing board games, learning to juggle, explaining complex software architectures with beer glasses, or mob-programming in Cobol.
 
-{{< twitter 498433577558999040 >}}
+{{<tweet user="philipp_riemer" id="498433577558999040">}}
 
 So, how was it for me? Mixed.
 
@@ -53,7 +53,7 @@ After the two days I didn't feel I took away much, despite the __amazing variety
 
 In [Philip Zimbardo's classification of time perspectives][tedzimbardotime], I'm clearly a future-positive-oriented type. I like to prepare ahead and anticipate what's coming. I also like concise conference sessions where presenters share the experience of their past work, like describing a specific project, a piece of software they built, and the lessons they took away from it. Concrete, credible, and structured.
 
-{{< twitter 498162644936048640 >}}
+{{<tweet user="_StephanRoth" id="498162644936048640">}}
 
 __Unconferences are great because of the people who attend them__. Competent and passionate to the boundaries of craze. That's what keeps [those who enjoyed SoCraTes][dougsocrates] coming back. They seek renewed inspiration and energy coming from others like them. It's perhaps the most social gathering of geeks.
 
