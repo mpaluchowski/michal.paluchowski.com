@@ -202,7 +202,8 @@ A typical `main.tf` inside brand-one will look like:
 # Application
 
 module "client_panel_application" {
-  source = "../../../infrastructure/api/application"  name   = "Application Name"
+  source = "../../../infrastructure/api/application"
+  name   = "Application Name"
 }
 
 # Environments
