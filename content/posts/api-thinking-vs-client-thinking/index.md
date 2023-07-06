@@ -16,7 +16,7 @@ Have an API? No? So obscure. _Everybody_ has one these days as APIs were the fou
 
 <!--more-->
 
-APIs were all the rage that, along with [AJAX][wpajax], [kicked off Web 2.0][wpweb20]. By allowing others to tap into the features and data of your application, you could spark a whole community of clients and mash-ups, making you the __platform__. Twitter is a well known child of this era, where an [API was built first][twitterrapi], then Twitter's own clients as well as all the independent ones on top of it.
+APIs were all the rage that, along with [AJAX][wpajax], [kicked off Web 2.0][wpweb20]. By allowing others to tap into the features and data of your application, you could spark a whole community of clients and mash-ups, making you the __platform__. Twitter is a well known child of this era, where an API was built first, then Twitter's own clients as well as all the independent ones on top of it.
 
 {{< figure src="/api-thinking-vs-client-thinking/apis-apis-everywhere.png" alt="APIs, APIs everywhere" >}}
 
@@ -24,7 +24,7 @@ This obviously takes away control of the application's future from its creators,
 
 For System Architects, APIs are the panacea in a multi-device world. With the variety of client applications being demanded - web, native, embedded, large-screen, tiny-screen etc. - we want to keep complexity low by reusing as much code as possible. A properly written API can be shared between all clients and even allow for gracefully dropping support for a legacy generation, like a browser that's becoming obsolete.
 
-[Trello makes excellent use][trelloapiie9] of this graceful degradation pattern:
+Trello makes excellent use of this graceful degradation pattern:
 
 > [T]he website is just a face that chats with the Trello API and that the iOS and Android apps are also just faces and you can make your own face.
 > (...)
@@ -67,13 +67,11 @@ Building a good API requires following guidelines, which are not the ones usuall
 
 If the API is done right, it's an investment that pays back many times the effort put into it. The multitude of clients that can use it, the flexibility to rapidly build features that weren't previously thought of. For any regular [software company][mpgeekheaven] it's possibly _the_ most complex task it will handle and you should put your best, brightest people on it. And make sure they __spark conflicts with all the developers building clients__, because that means they're __having real conversations__ about how to build the best solution for everyone.
 
-[javacollections]: https://docs.oracle.com/javase/7/docs/api/java/util/Collections.html
+[javacollections]: https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collections.html
 [mpgeekheaven]: {{< ref"posts/searching-for-geek-heaven/index.md" >}}
 [mpteamneverwas]: {{< ref"posts/a-team-that-never-was/index.md" >}}
-[trelloapiie9]: http://blog.fogcreek.com/project-asteroid-gracefully-dropping-support-for-dinosaur-browsers-in-trello/
 [twittercontrol]: https://blog.twitter.com/2012/delivering-consistent-twitter-experience
 [twitterjoshuabloch]: https://twitter.com/joshbloch
-[twitterrapi]: http://www.mashery.com/resources/videos/twitter-fireside-chat-ryan-sarver
 [twitterretweet]: https://blog.twitter.com/2009/project-retweet-phase-one
 [wpajax]: https://en.wikipedia.org/wiki/AJAX
 [wpdesignbycontract]: https://en.wikipedia.org/wiki/Design_by_contract

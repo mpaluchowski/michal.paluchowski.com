@@ -13,7 +13,7 @@ short: true
 warning: "I'm no longer using Wordpress to publish this website and it went through several re-designs."
 ---
 
-[Posterous][posterous] is likely gone by the time you're reading this. [Acquired by Twitter in 2012][tcposteroustwitter], [closed down in the end of April 2013][tcposterousshutdown]. I checked my options and considering:
+Posterous.com is likely gone by the time you're reading this. [Acquired by Twitter in 2012][tcposteroustwitter], [closed down in the end of April 2013][tcposterousshutdown]. I checked my options and considering:
 
 <!--more-->
 
@@ -27,7 +27,6 @@ If you find anything broken, please be so kind and [let me know][twittermpalucho
 
 Later I will likely take some time to design my own theme - simple, minimalist, content first. For the moment enjoy the visually excellent design by [SiteOrigin][siteorigin].
 
-[posterous]: http://posterous.com
 [tcposteroustwitter]: https://techcrunch.com/2012/03/12/posterous-finds-a-home-in-the-arms-of-twitter/
 [tcposterousshutdown]: https://techcrunch.com/2013/02/15/posterous-will-shut-down-on-april-30th-co-founder-garry-tan-launches-posthaven-to-save-your-sites/
 [twittermpaluchowski]: https://twitter.com/mpaluchowski

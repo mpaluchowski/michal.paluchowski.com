@@ -18,7 +18,7 @@ With the years I worked out a few strategies for taming Git, making both mine an
 
 ## Understand the model
 
-A prerequisite to understand most of Git's concepts is learning how the data model works. It's so important, that before I let developers do anything with Git, I force them to read through the ["Git Basics" chapter of Pro Git][progit-gitbasics]. The rest they can learn as they go. In essence:
+A prerequisite to understand most of Git's concepts is learning how the data model works. It's so important, that before I let developers do anything with Git, I force them to read through the ["What is Git?" chapter of Pro Git][progit-gitbasics]. The rest they can learn as they go. In essence:
 
 * __all commits are nodes in a directed graphs__, where
     - when multiple commits point to the same parent, they're all branches,
@@ -87,7 +87,7 @@ Reduced amount and magnitude of merge conflicts, actually useful commit graphs, 
 [gitflow]: http://nvie.com/posts/a-successful-git-branching-model/
 [github-explore]: https://github.com/explore
 [github-flow]: https://guides.github.com/introduction/flow/
-[progit-gitbasics]: https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+[progit-gitbasics]: https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
 [progit-maintenance]: https://git-scm.com/book/en/v2/Git-Internals-Maintenance-and-Data-Recovery
 [sourcetree]: https://www.sourcetreeapp.com/
 
