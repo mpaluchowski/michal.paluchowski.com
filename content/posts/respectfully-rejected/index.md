@@ -22,9 +22,9 @@ Google was merely one of many similar experiences. I once called up a company to
 
 [Rejection happens to the best of us][mphowhardhit]. History knows countless cases where individuals were sent away as unfit for a job, then built exceptional success elsewhere. Without much digging:
 
-- Chris Wanstrath was [rejected for job at Yahoo][defunktrejected] and went on to found GitHub.
-- Larry Page and Sergey Brin [couldn't sell Google for a measly $1M to Yahoo, Excite and Infoseek][pagebrinhistory], later rejected Yahoo's $3B buyout offer.
-- J.K. Rowling's [Harry Potter was rejected by several publishers][jkrowlingrejected], one accepted and she became one of the richest women in the world.
+- Chris Wanstrath was rejected for job at Yahoo and went on to found GitHub.
+- Larry Page and Sergey Brin couldn't sell Google for a measly $1M to Yahoo, Excite and Infoseek, later rejected Yahoo's $3B buyout offer.
+- J.K. Rowling's Harry Potter was rejected by several publishers, one accepted and she became one of the richest women in the world.
 
 {{< figure src="/respectfully-rejected/nobody-likes-me.png" alt="Peanuts: Nobody likes me" >}}
 
@@ -57,10 +57,7 @@ People remember. Negative experiences remain in memory much sharper than positiv
 
 {{<tweet user="mentalspl" id="475187392178302976">}}
 
-[defunktrejected]: https://twitter.com/defunkt/status/469607846527520768
 [fogcreek]: http://www.fogcreek.com/
-[jkrowlingrejected]: http://www.jkrowling.com/en_GB/#/timeline/bloomsbury-publishing/
-[pagebrinhistory]: http://interviewsummary.com/2012/11/02/larry-page-and-sergei-brin-of-google/
 [mpgeekheaven]: {{< ref"posts/searching-for-geek-heaven/index.md" >}}
 [mptalkabout]: {{< ref"posts/not-everyone-knows-what-theyre-talking-about/index.md" >}}
 [mphowhardhit]: {{< ref"posts/its-not-how-hard-you-can-hit/index.md" >}}
