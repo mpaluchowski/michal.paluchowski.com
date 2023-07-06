@@ -39,7 +39,7 @@ Leaving candidates with a bad memory of the recruitment process is therefore lud
 
 > Recruiting is a series of delicate communications. It's about managing a candidate's experience and expectations throughout the interview process. It's marketing and PR: everyone you talk to leaves with an impression of the company. A recruiter creates the company's brand, and, if done right, __leaves a candidate still wanting to work for you even after they've been rejected__. [emphasis mine]
 >
-> <cite>Liz Hall, [Lights, Camera, Offer!](http://behindthescenesrecruiter.com/post/78466107159/lights-camera-offer), Fog Creek Software</cite>
+> <cite>Liz Hall, Lights, Camera, Offer!, Fog Creek Software (website gone)</cite>
 
 It's really very simple, though admittedly not _easy_. Every candidate should receive
 
