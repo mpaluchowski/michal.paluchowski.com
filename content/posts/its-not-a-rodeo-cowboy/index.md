@@ -11,7 +11,7 @@ tags:
   - startup
 ---
 
-[The market for something to believe in is infinite](https://www.gapingvoid.com/blog/2004/06/27/the-hughtrain/). I haven't seen any better evidence of this being true, than during yesterday's finale of [Startup Weekend Warsaw](http://warsaw.startupweekend.org/). The team with the most daring, creative, inspiring idea for a project won by a landslide and swept away half of the numerous prizes. Business played second-string.
+[The market for something to believe in is infinite](https://web.archive.org/web/20160207152019/https://www.gapingvoid.com/blog/2004/06/27/the-hughtrain/). I haven't seen any better evidence of this being true, than during yesterday's finale of [Startup Weekend Warsaw](https://web.archive.org/web/20110625172719/http://warsaw.startupweekend.org/). The team with the most daring, creative, inspiring idea for a project won by a landslide and swept away half of the numerous prizes. Business played second-string.
 
 <!--more-->
 
@@ -28,4 +28,4 @@ You _can_ achieve two and __only two__ things, really:
 
 Running a business requires __True Grit__. Precisely [the like of sheriffs](http://www.imdb.com/title/tt1403865/) in the old days of the Wild West. Staying [atop an angry bull for 8 seconds](http://en.wikipedia.org/wiki/Bull_riding) will make the crowds cheer, but how about trying to catch that bull when he's out in the wild? And what if the bull doesn't care? "_Being in business means fighting obstacles, one after another, EVERY SINGLE DAY_" (via [@ForPiter](https://twitter.com/ForPiter)) is the smartest thing I heard over the last weekend and it's something that all participants will eventually learn, if not from others', then from their own experience.
 
-I saw that kind of persistence in [Justyna Goławska](https://twitter.com/jgolawska) of [TradycyjneJedzenie.pl](http://www.tradycyjnejedzenie.pl) and [Przemek Białokozłowicz](http://twitter.com/PBialokozowicz) of CAREgiver who pursued their projects despite having little popularity among the crowds. I [raise my glass](https://www.youtube.com/watch?v=XjVNlG5cZyQ) (of coffee, for now) to the underdogs.
+I saw that kind of persistence in [Justyna Goławska](https://twitter.com/jgolawska) of [TradycyjneJedzenie.pl](https://web.archive.org/web/20110514015458/http://tradycyjnejedzenie.pl/) and [Przemek Białokozłowicz](http://twitter.com/PBialokozowicz) of CAREgiver who pursued their projects despite having little popularity among the crowds. I [raise my glass](https://www.youtube.com/watch?v=XjVNlG5cZyQ) (of coffee, for now) to the underdogs.

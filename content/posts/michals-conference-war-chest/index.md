@@ -102,9 +102,9 @@ Finally, I produce a __brief summary__ from the pile of information, adding my o
 
 We take a look at all materials with my colleagues to decide [what is most relevant to us and what we'd like to try out][mp-architects] now or later. These go into our regular planning and I get back to everyday work, counting down to the next great conference.
 
-[apple-ipad-air2]: http://www.apple.com/ipad-air-2/
-[apple-ipad-mini]: http://www.apple.com/ipad-mini-4/
-[brain-rules-move]: http://www.brainrules.net/exercise
+[apple-ipad-air2]: https://web.archive.org/web/20160108054939/https://www.apple.com/ipad-air-2/
+[apple-ipad-mini]: https://web.archive.org/web/20160116060014/http://www.apple.com/ipad-mini-4/
+[brain-rules-move]: https://brainrules.net/exercise/
 [mp-agile]: {{< ref"posts/what-does-it-mean-to-be-agile/index.md" >}}
 [mp-architects]: {{< ref"posts/antique-inspirations-for-software-architects/index.md" >}}
 [mp-craftconf]: {{< ref"posts/the-state-of-the-craft-at-craftconf-2015/index.md" >}}

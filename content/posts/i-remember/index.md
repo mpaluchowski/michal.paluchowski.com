@@ -27,4 +27,4 @@ I'm putting together a list of memories from my early days on the web---late 90s
 
 This post is a work in progress and will remain so, likely indefinitely. Whenever I remember some quirky way of doing things from the past, I will update it with new content. Eventually, if it becomes unwieldy long, I may add sections---perhaps one per decade? Check back in a while to see what's new.
 
-[web-safe-colors]: http://www.ion.uillinois.edu/resources/tutorials/webdesign/WebGraphicsWorkshop/bscolors.htm
+[web-safe-colors]: https://web.archive.org/web/20190714210253/https://www.ion.uillinois.edu/resources/tutorials/webdesign/WebGraphicsWorkshop/bscolors.htm

@@ -10,7 +10,7 @@ tags:
   - startup
 ---
 
-[myguidie](http://myguidie.com/) [died yesterday](http://blog.myguidie.com/post/21658891033/thanks-for-an-amazing-journey). It was one of the few, sane ideas born a year ago during the [1st Startup Weekend Warsaw]({{< ref"posts/its-not-a-rodeo-cowboy/index.md" >}}). Now it's dead, and the only questions lingering are: what will [@olasitarska](http://twitter.com/olasitarska) do next, and what will _everybody else_ do?
+[myguidie](http://myguidie.com/) [died yesterday](https://web.archive.org/web/20120426221642/http://blog.myguidie.com/post/21658891033/thanks-for-an-amazing-journey). It was one of the few, sane ideas born a year ago during the [1st Startup Weekend Warsaw]({{< ref"posts/its-not-a-rodeo-cowboy/index.md" >}}). Now it's dead, and the only questions lingering are: what will [@olasitarska](http://twitter.com/olasitarska) do next, and what will _everybody else_ do?
 
 <!--more-->
 

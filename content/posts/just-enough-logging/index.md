@@ -101,7 +101,7 @@ Thanks to Tim Barnett for [motivating me][timstweet] to write this post.
 [mbnoteveryone]: {{< ref"posts/not-everyone-knows-what-theyre-talking-about/index.md" >}}
 [mbqafromvenus]: {{< ref"posts/developers-are-from-mars-qa-are-from-venus/index.md" >}}
 [stackloglevels]: http://stackoverflow.com/a/8021604/121448
-[velocitybbc]: http://velocityconf.com/velocityeu2012/public/schedule/detail/25792
+[velocitybbc]: https://web.archive.org/web/20130730225229/https://velocityconf.com/velocityeu2012/public/schedule/detail/25792
 [timstweet]: https://twitter.com/tgbarnett/status/445905567618711553
 [slf4j]: http://www.slf4j.org/
 [log4jappenders]: http://logging.apache.org/log4j/2.x/manual/appenders.html
