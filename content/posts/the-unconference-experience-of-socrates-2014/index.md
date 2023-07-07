@@ -64,7 +64,7 @@ For the future I will likely stick to more traditional conference formats, with 
 [socrates]: http://www.socrates-conference.de/
 [softwarecraftmanifesto]: http://manifesto.softwarecraftsmanship.org/
 [tedzimbardotime]: http://www.ted.com/talks/philip_zimbardo_prescribes_a_healthy_take_on_time
-[vibramfivefingers]: http://www.vibramfivefingers.it/
+[vibramfivefingers]: https://web.archive.org/web/20141112134529/http://www.vibramfivefingers.it/
 [wpopenspacetech]: http://en.wikipedia.org/wiki/Open_Space_Technology
-[dougsocrates]: http://blog.8thlight.com/doug-bradbury/2014/08/12/socrates-2014-a-vibrant-german-software-craftsmanship-community.html
+[dougsocrates]: https://web.archive.org/web/20150109193908/http://blog.8thlight.com/doug-bradbury/2014/08/12/socrates-2014-a-vibrant-german-software-craftsmanship-community.html
 
