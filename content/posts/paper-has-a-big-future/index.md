@@ -59,7 +59,7 @@ I'm sure we're yet about to see advances in technology, that will bridge the gap
 For now, going 100% paperless, while possible, would not only rob me of aesthetic pleasures and limit my creativity, but also increase the risk of getting into unpleasant situations in the least expected times. I'm happy to rely on paper for much of my work and will continue doing so.
 
 [longhandnotetaking]: http://www.psychologicalscience.org/index.php/news/releases/take-notes-by-hand-for-better-long-term-comprehension.html
-[mswedgekeyboard]: http://www.microsoft.com/hardware/en-us/p/wedge-mobile-keyboard
+[mswedgekeyboard]: https://web.archive.org/web/20140710201724/http://www.microsoft.com/hardware/en-us/p/wedge-mobile-keyboard
 [penmightierthankeyboard]: http://pss.sagepub.com/content/early/2014/05/21/0956797614524581
 [trellorecommend]: https://trello.com/mpaluchowski/recommend
 [wpelectrovotingproblems]: http://en.wikipedia.org/wiki/Electronic_voting#Documented_problems
