@@ -25,6 +25,8 @@ menu:
     - name: Cycling
       url: https://cycling.paluchowski.com/
   social:
+    - name: Mastodon
+      url: https://mastodon.online/@mpaluchowski
     - name: Twitter
       url: https://twitter.com/mpaluchowski
     - name: GitHub
