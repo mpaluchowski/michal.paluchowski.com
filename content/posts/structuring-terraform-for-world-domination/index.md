@@ -77,7 +77,7 @@ provider "aws" {
 }
 ```
 
-Notice the `alias` field, which [lets us use this provider only when we need it](https://developer.hashicorp.com/terraform/language/meta-arguments/resource-provider), ie. with [SSL certificates for CloudFront](https://aws.amazon.com/premiumsupport/knowledge-center/install-ssl-cloudfront/):
+Notice the `alias` field, which [lets us use this provider only when we need it](https://developer.hashicorp.com/terraform/language/providers/configuration#selecting-alternate-provider-configurations), ie. with [SSL certificates for CloudFront](https://aws.amazon.com/premiumsupport/knowledge-center/install-ssl-cloudfront/):
 
 ``` Terraform
 resource "aws_acm_certificate" "cdn" {
