@@ -41,8 +41,8 @@ ErrorDocument 404 /404.html
     Header set Strict-Transport-Security max-age=2592000
 
     <FilesMatch "\.html$">
-        Header merge Link "<https://fonts.googleapis.com/>; rel=preconnect"
-        Header merge Link "<https://fonts.gstatic.com/>; rel=preconnect"
+        Header merge Link "<https://fonts.googleapis.com>; rel=\"preconnect\""
+        Header merge Link "<https://fonts.gstatic.com>; rel=\"preconnect\""
     </FilesMatch>
     <FilesMatch "\.(jpg|jpeg|webp|png|svg|ico)$">
         Header set Cache-Control "max-age=604800, public"
