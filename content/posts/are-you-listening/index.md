@@ -10,7 +10,7 @@ tags:
 short: true
 ---
 
-I killed a salesman last week. He called from [my cell phone company](https://www.play.pl/), he offered me a contract renewal, he kept using 10 words wherever 1 would suffice and kept pushing me to close the deal now, today, _immediately_. "I don't understand; you already said you're taking the offer!" Did I? He earned some well deserved frustration, hang up mumbling something about a time-waste.
+I killed a salesman last week. He called from [my cell phone company](https://www.play.pl/), he offered me a contract renewal, he kept using 10 words wherever 1 would suffice and kept pushing me to close the deal now, today, _immediately_. "I don't understand; you already said you're taking the offer!" Did I? He earned some well deserved frustration, hung up mumbling something about wasted time.
 
 <!--more-->
 
