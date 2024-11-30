@@ -4,8 +4,12 @@ baseURL: https://michal.paluchowski.com
 permalinks:
   posts: /:filename
   pages: /:filename
-  tags: /tag/:slug
-  categories: /category/:slug
+  taxonomy:
+    tags: /tag
+    categories: /category
+  term:
+    tags: /tag/:slug
+    categories: /category/:slug
 languageCode: "en-us"
 paginate: 10
 googleAnalytics: G-P19K128BFG
