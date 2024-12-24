@@ -22,7 +22,6 @@ params:
   logo:
     path: /img/mpaluchowski.jpg
     alt: Michał Paluchowski
-  microsoftClarity: 447mvoq6xk
 menu:
   blogs:
     - name: Travel
