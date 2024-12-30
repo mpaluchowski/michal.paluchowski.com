@@ -10,6 +10,7 @@ tags:
   - quality
   - quantified self
   - wearables
+  - jawbone
 image: /what-goes-up-must-come-down/up-replacement.jpg
 ---
 
