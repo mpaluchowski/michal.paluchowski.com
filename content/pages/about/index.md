@@ -18,4 +18,4 @@ Away from computers, I'm an [__active cyclist__](https://www.strava.com/athletes
 
 If you're finding any of the content published here useful, do let me know. If you'd like to republish it, go right ahead. No need to ask. It's all CC-BY covered, with a license link in the footer.
 
-You can find me on [Twitter](https://twitter.com/mpaluchowski), and now and then I share bits of code on [GitHub](https://github.com/mpaluchowski).
+You can find me on [Mastodon](https://mastodon.online/@mpaluchowski), and now and then I share bits of code on [GitHub](https://github.com/mpaluchowski).
