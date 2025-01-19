@@ -37,7 +37,7 @@ and perhaps most importantly:
 
 SoCraTes attendees spent days strolling between sessions, then evenings and nights playing board games, learning to juggle, explaining complex software architectures with beer glasses, or mob-programming in Cobol.
 
-{{<tweet user="philipp_riemer" id="498433577558999040">}}
+{{<x user="philipp_riemer" id="498433577558999040">}}
 
 So, how was it for me? Mixed.
 

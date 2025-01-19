@@ -20,7 +20,7 @@ Back on April 26 I [reviewed my first year of wearing Jawbone UP][mplivingup] wi
 
 Considering how long the band worked well for me, I was one of the _lucky_ ones:
 
-{{<tweet user="dusker" id="464562973424771072">}}
+{{<x user="dusker" id="464562973424771072">}}
 
 14 months of nearly flawless operation sounds like an eternity, when some people had as many as [five consecutive devices replaced][yhgivingupjawbone] in the course of a few months. If that statement sounds sarcastically, it should. __I expect a €100+ device to easily last a few years__ accepting only gradual reduction of battery life.
 
@@ -28,7 +28,7 @@ Like [many UP users have commented][ericwearablesreview], the design and feature
 
 The warranty for Jawbone UP is offered only for 12 months. Pretty short, as electronics regularly come with minimum 24 months of coverage. I thought my Jawbone adventure was over, because I didn't see the point in buying a replacement. Nonetheless, since there's no harm in asking, I reached out to Jawbone directly and quickly got a response:
 
-{{<tweet user="JawboneSupport" id="481111474937413634">}}
+{{<x user="JawboneSupport" id="481111474937413634">}}
 
 Two reset attempts and a phone conversation later I was offered a replacement. How? "_As an exception_", I was told, because Jawbone "_wanted to provide the best possible customer experience_". Fair enough and I'm happy to have received that kind of attention - that certainly says a lot about the approach of Jawbone towards its users. Still, I cannot quite understand why an exception was made for me, in particular. Why make exceptions in the first place? Why not __extend the warranty to 24 months for everyone__?
 

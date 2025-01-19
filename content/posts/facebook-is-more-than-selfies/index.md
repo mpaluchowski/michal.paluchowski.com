@@ -16,7 +16,7 @@ Should we all just [#DeleteFacebook][twitter-deletefacebook]? I mean, [throughou
 
 I like where [@DHH](https://twitter.com/dhh) is going:
 
-{{<tweet user="dhh" id="1075513588859645952">}}
+{{<x user="dhh" id="1075513588859645952">}}
 
 Basecamp has a brand, and for their---mostly technically-sophisticated---users, it's alright to skip Facebook as a communication medium. How about the rest of the world, though? [The 2B+ regular Facebook users][statista-facebook-users]?
 

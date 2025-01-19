@@ -60,7 +60,7 @@ These meant adding some more markup to my code:
 
 Now my content was nicely highlighted on Twitter (note: doesn't always show up):
 
-{{<tweet user="mpaluchowski" id="447115370965774336">}}
+{{<x user="mpaluchowski" id="447115370965774336">}}
 
 As a consequence, I have **the same data three-four times in the page**:
 

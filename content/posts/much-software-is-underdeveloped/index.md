@@ -27,7 +27,7 @@ Remember when the term "computer" meant "[person doing computations](https://en.
 
 The first computers were built to replace all these people with machines that would reliably, repeatedly provide the same computing services, and do so faster. Digital data storage also is way more efficient, both in terms of space used and access speed.
 
-{{<tweet user="BrianRoemmele" id="1147556213523021824">}}
+{{<x user="BrianRoemmele" id="1147556213523021824">}}
 
 You can argue that a lot of software today is still doing a lousy job at step one, working slowly, unreliably or offering a really bad user experience to those trying to retrieve data. Still, the features are broadly there, implemented, working.
 
