@@ -2,8 +2,8 @@ metaDataFormat: yaml
 theme: mpaluchowski-2019
 baseURL: https://michal.paluchowski.com
 permalinks:
-  posts: /:filename
-  pages: /:filename
+  posts: /:contentbasename
+  pages: /:contentbasename
   taxonomy:
     tags: /tag
     categories: /category
