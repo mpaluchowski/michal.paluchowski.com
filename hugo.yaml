@@ -10,7 +10,9 @@ permalinks:
   term:
     tags: /tag/:slug
     categories: /category/:slug
-languageCode: "en-us"
+languages:
+  en:
+    locale: "en-us"
 paginator:
   pagerSize: 10
 googleAnalytics: G-P19K128BFG
